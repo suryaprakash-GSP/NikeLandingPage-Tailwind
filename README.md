@@ -1,4 +1,12 @@
 # NikeLandingPage-Tailwind
 Built a Responsive Nike Landing Page using Tailwind+ React.
 
-[Watch the video](https://github.com/suryaprakash-GSP/NikeLandingPage-Tailwind/blob/main/Screencast%20from%2010-03-24%2010%3A33%3A03%20AM%20UTC.webm)
+![Alt Text]()
+![Alt Text]()https://github.com/suryaprakash-GSP/NikeLandingPage-Tailwind/blob/main/Screenshot%20from%202024-03-10%2010-39-01.png
+![Alt Text](https://github.com/suryaprakash-GSP/NikeLandingPage-Tailwind/blob/main/Screenshot%20from%202024-03-10%2010-39-07.png)
+![Alt Text](https://github.com/suryaprakash-GSP/NikeLandingPage-Tailwind/blob/main/Screenshot%20from%202024-03-10%2010-39-12.png)
+![Alt Text](https://github.com/suryaprakash-GSP/NikeLandingPage-Tailwind/blob/main/Screenshot%20from%202024-03-10%2010-39-16.png)
+![Alt Text](https://github.com/suryaprakash-GSP/NikeLandingPage-Tailwind/blob/main/Screenshot%20from%202024-03-10%2010-39-34.png)
+
+
+
